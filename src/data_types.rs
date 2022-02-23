@@ -1,5 +1,5 @@
-pub fn sample_print(){
-    println!("Hello World, Welcome to OOP!!");
+pub fn sample_print(name:String){
+    println!("Hello {}, Welcome to OOP!!!", name);
 }
 
 pub fn integer_ref(){

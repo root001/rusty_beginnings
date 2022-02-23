@@ -23,3 +23,10 @@ Rust is statically typed; it must know the types of all variables at compile tim
 Integer can be signed or unsigned(default) and has a range value deepending on size of the bit used from 8 to 128.[-(2^n-1) to (2^n-1)-1]
 ## Compound data types :
 Data types which allows for the grouping of multiple/different data types. Rust provides two primitve data types, tuples and arrays. Tuples have a fixed length, hence once declared cannot grow in size. Arrays are comma seperated vales square braces, has a fixed length with same datatype. 
+
+## Data Structures
+if else
+if else if
+loop
+while
+for 
